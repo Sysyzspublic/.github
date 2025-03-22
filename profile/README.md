@@ -13,9 +13,9 @@ Sysyzspublic 是一个服务于学校的组织，是邵阳市第一中学信息�
 一群年轻的学生，喜欢探索、研究，仍然在路上。
 
 ## 感谢
-- [JIAJUN](https://github.com/Fuwaki)
-- [Yizhixianyuuuu](https://github.com/yizhixianyuuuu)
-- [会走路的格子衫](https://github.com/bk-tshirt)
+- JIAJUN
+- Yizhixianyuuuu
+- 会走路的格子衫
 
 ## 获取帮助
 - 向工作邮箱发电子邮件👉[📪](mailto:sysyzspublic@outlook.com)
