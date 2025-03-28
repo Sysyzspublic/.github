@@ -14,7 +14,7 @@ Sysyzspublic 是一个服务于学校的组织，是邵阳市第一中学信息�
 
 ## 感谢
 - JIAJUN
-- Yizhixianyuuuu
+- yuyudifiesh
 - 会走路的格子衫
 
 ## 获取帮助
